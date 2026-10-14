@@ -1,5 +1,7 @@
 # Pima Indians Diabetes Prediction Using Machine Learning
-
+NAME:RAMKISHOR M B
+CSE - MEDICAL EMGINEERING
+RA2411077050004
 **Course:** Machine Learning in Medicine  
 **Course Code:** 21CSC207J  
 **Institution:** SRM Institute of Science and Technology, Tiruchirappalli  
